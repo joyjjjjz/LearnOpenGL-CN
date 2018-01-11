@@ -1,0 +1,13 @@
+﻿生成启动时间为 2018/1/11 10:41:02。
+     1>项目“E:\git\gl\LearnOpenGL-CN\GLAD.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IE:\git\gl\LearnOpenGL\configuration /IE:\git\gl\LearnOpenGL\includes /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"GLAD.dir\Debug\\" /Fd"GLAD.dir\Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt E:\git\gl\LearnOpenGL\src\glad.c
+         glad.c
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"E:\git\gl\LearnOpenGL\Debug\GLAD.lib" /NOLOGO  /machine:X86 GLAD.dir\Debug\glad.obj
+         GLAD.vcxproj -> E:\git\gl\LearnOpenGL\Debug\GLAD.lib
+     1>已完成生成项目“E:\git\gl\LearnOpenGL-CN\GLAD.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.10
